@@ -1,4 +1,9 @@
-**Módulo 01 - Fundamentos da Blockchain**
+<img src='img/seven.png'>
+<h1 align="center">Módulo 01 - Fundamentos da Blockchain</h1>
+
+![GitHub](https://img.shields.io/github/license/avellar1975/formacao-blockchain-dio)
+![GitHub top language](https://img.shields.io/github/languages/top/avellar1975/formacao-blockchain-dio)
+![GitHub repo size](https://img.shields.io/github/repo-size/avellar1975/formacao-blockchain-dio?color=orange)
 
 1. Criar uma pasta para o projeto.
 2. Dentro da pasta criada, iniciar o projeto do node através do comando ```npm init -y```
