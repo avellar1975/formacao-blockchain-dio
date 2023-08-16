@@ -1,4 +1,4 @@
-**Projeto Blockchain**
+**Módulo 01 - Fundamentos da Blockchain**
 
 1. Criar uma pasta para o projeto.
 2. Dentro da pasta criada, iniciar o projeto do node através do comando ```npm init -y```
