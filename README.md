@@ -1,7 +1,6 @@
 <img src='https://github.com/avellar1975/7DaysOfCode/blob/main/img/seven.png'>
 <h1 align="center">Módulo 01 - Fundamentos da Blockchain</h1>
 
-
 ![GitHub](https://img.shields.io/github/license/avellar1975/formacao-blockchain-dio)
 ![GitHub top language](https://img.shields.io/github/languages/top/avellar1975/formacao-blockchain-dio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/avellar1975/formacao-blockchain-dio?color=orange)
